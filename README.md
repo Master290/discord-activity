@@ -1,2 +1,2 @@
-#Set Discord Status
+# Set Discord Status
 ### Change your Discord status!
