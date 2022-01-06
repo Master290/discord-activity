@@ -1,0 +1,77 @@
+{
+	"activityDetails": {
+		"message": "Необязательно: Подробности "
+	},
+	"activitySource": {
+		"message": "на %"
+	},
+	"activityState": {
+		"message": "Необязательно: Состояние"
+	},
+	"activityStreamURL": {
+		"message": "Ссылка на стрим"
+	},
+	"activityTypeListening": {
+		"message": "Слушает"
+	},
+	"activityTypePlaying": {
+		"message": "Играет в"
+	},
+	"activityTypeStreaming": {
+		"message": "Стримит"
+	},
+	"activityTypeWatching": {
+		"message": "Смотрит"
+	},
+	"activityTypeCustomStatus": {
+		"message": "Кастомный статус"
+	},
+	"activityUpdate": {
+		"message": "Поставить статус"
+	},
+	"appDesc": {
+		"message": "Поставь в статус \"Играет в\", \"Стримит\", \"Слушает\" и \"Смотрит\" в Discord всё что ты хочешь."
+	},
+	"appName": {
+		"message": "Discord Status"
+	},
+	"hintTwitchOnly": {
+		"message": "Ссылка на стрим должна начинаться с https://twitch.tv/"
+	},
+	"loading": {
+		"message": "Discord Activity загружается..."
+	},
+	"noTabHelp1": {
+		"message": "Если вкладка открыта, перезагрузи её. Если нет, просто "
+	},
+	"noTabHelp2": {
+		"message": "открой новую"
+	},
+	"noTabHelp3": {
+		"message": "."
+	},
+	"noTabPrefix": {
+		"message": "Я не заметил"
+	},
+	"noTabSuffix": {
+		"message": " вкладку!"
+	},
+	"source": {
+		"message": "Источник:"
+	},
+	"sourceAutoMusic": {
+		"message": "Ваш статус в Discord будет содержать имя + автора песни, которую вы слушаете, или пустую, если вы ее не слушаете."
+	},
+	"sourceAutoPlex": {
+		"message": "Ваш статус в Discord будет названием эпизода, фильма или песни, которую вы смотрите или слушаете, или пустым, если это не применимо."
+	},
+	"sourceAutoVideo": {
+		"message": "Ваш статус в Discord будет заголовком видео, которое вы смотрите, или пустым, если вы не смотрите видео."
+	},
+	"sourceOff": {
+		"message": "Выключить"
+	},
+	"sourceCustom": {
+		"message": "Кастомный"
+	}
+}
